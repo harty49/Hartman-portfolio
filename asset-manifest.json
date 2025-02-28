@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Hartman-portfolio/static/css/main.da7d8cec.css",
+    "main.js": "/Hartman-portfolio/static/js/main.fb81668d.js",
+    "static/media/IMG_1991.jpg": "/Hartman-portfolio/static/media/IMG_1991.abd17eaac3654d49193c.jpg",
+    "static/media/IMG_2231.jpg": "/Hartman-portfolio/static/media/IMG_2231.1b6c5d4c4e9c6f7edeb5.jpg",
+    "static/media/IMG_4350.jpg": "/Hartman-portfolio/static/media/IMG_4350.d3e93531e839d8387700.jpg",
+    "static/media/Tea-station.png": "/Hartman-portfolio/static/media/Tea-station.5af95c7a9ed43caaa76a.png",
+    "static/media/zsi-screenshot.png": "/Hartman-portfolio/static/media/zsi-screenshot.04f9a74e3bb40d83fbb6.png",
+    "static/media/logo2.jpg": "/Hartman-portfolio/static/media/logo2.1eea8a0fec5a2f55ce2e.jpg",
+    "static/media/ipl.png": "/Hartman-portfolio/static/media/ipl.acbcd3978fc39924f646.png",
+    "static/media/IMG_3172.jpg": "/Hartman-portfolio/static/media/IMG_3172.ec1cee9d52d6d1a34098.jpg",
+    "static/media/IMG_1863.JPG": "/Hartman-portfolio/static/media/IMG_1863.674b1bb2d9e25a344bbc.JPG",
+    "static/media/IMG_2254.jpg": "/Hartman-portfolio/static/media/IMG_2254.c3ff06fec79fda14b060.jpg",
+    "static/media/apple-site.png": "/Hartman-portfolio/static/media/apple-site.73d9669d1eafc253965b.png",
+    "static/media/nike-screenshot.png": "/Hartman-portfolio/static/media/nike-screenshot.c90d0464bd16fd684bc4.png",
+    "static/media/project9.jpg": "/Hartman-portfolio/static/media/project9.7e10b78179ee665298cd.jpg",
+    "static/media/project7.jpg": "/Hartman-portfolio/static/media/project7.4389651d5816bb277c4a.jpg",
+    "static/media/project8.jpg": "/Hartman-portfolio/static/media/project8.16ed43794953534af05c.jpg",
+    "static/media/topboy-l.png": "/Hartman-portfolio/static/media/topboy-l.0b1bd9086fe072528626.png",
+    "static/media/Hartman-CV.pdf": "/Hartman-portfolio/static/media/Hartman-CV.22c7edbf703d53db4508.pdf",
+    "static/media/IMG_3151.JPG": "/Hartman-portfolio/static/media/IMG_3151.840499ea8b0132c91ccd.JPG",
+    "index.html": "/Hartman-portfolio/index.html",
+    "main.da7d8cec.css.map": "/Hartman-portfolio/static/css/main.da7d8cec.css.map",
+    "main.fb81668d.js.map": "/Hartman-portfolio/static/js/main.fb81668d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da7d8cec.css",
+    "static/js/main.fb81668d.js"
+  ]
+}
