@@ -1,5 +1,5 @@
 import AboutImage from "../../assets/IMG_4350.jpg";
-import CV from "../../assets/Hartman-CV.pdf";
+import CV from "../../assets/HARTMAN-HARTMAN-MANDOR-CV.pdf";
 import { HiDownload } from "react-icons/hi";
 import data from "./data";
 import Card from "../../components/Card";

@@ -1,4 +1,4 @@
-import Avatar1 from "../../assets/avatar1.jpg";
+import Avatar1 from "../../assets/140.jpg";
 import Avatar2 from "../../assets/IMG_2254.jpg";
 import Avatar3 from "../../assets/avatar3.jpg";
 import Avatar4 from "../../assets/IMG_1991.jpg";
@@ -10,10 +10,10 @@ const data = [
   {
     id: 1,
     quote:
-      "It's truly amazing how you did exactly what I want with the little information I gave. You'll be my go-to developer from today. Highly recommend!",
+      "Thank you Hartman for the work you have done. PHP is on the latest version. All the links and pictures are working as expected. The submit button on the contact form is working. The website is very responsive and load time is very fast. I am a very happy customer.",
     avatar: Avatar1,
-    name: "Nana Ama McBrown",
-    profession: "Actress",
+    name: "Mr Derek Enyenihi",
+    profession: "Assistant Secretary Edu.org.uk",
   },
   {
     id: 2,
